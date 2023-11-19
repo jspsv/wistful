@@ -3,12 +3,18 @@
   "displayName": "Wistful Theme",
   "description": "Wistful theme for VS Code.",
   "version": "0.0.1",
+  "license": "Apache-2.0",
+  "author": "Joseph Sebastian",
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jspsv/wistful.git"
+  },
   "contributes": {
     "themes": [
       {
