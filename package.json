@@ -1,0 +1,21 @@
+{
+  "name": "wistful-theme",
+  "displayName": "Wistful Theme",
+  "description": "Wistful theme for VS Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wistful",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wistful-color-theme.json"
+      }
+    ]
+  }
+}
