@@ -1,10 +1,10 @@
 {
   "name": "wistful-theme",
+  "version": "0.1.0",
   "displayName": "Wistful Theme",
   "description": "Wistful theme for VS Code.",
-  "version": "0.0.1",
+  "publisher": "josephsv",
   "license": "Apache-2.0",
-  "author": "Joseph Sebastian",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -15,6 +15,9 @@
     "type": "git",
     "url": "https://github.com/jspsv/wistful.git"
   },
+  "maintainers": [
+    "Joseph Sebastian"
+  ],
   "contributes": {
     "themes": [
       {
