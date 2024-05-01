@@ -1,9 +1,9 @@
 {
   "name": "wistful-theme",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "displayName": "Wistful Theme",
   "description": "Wistful theme for VS Code.",
-  "publisher": "josephsv",
+  "publisher": "jspsv",
   "license": "Apache-2.0",
   "engines": {
     "vscode": "^1.84.0"
