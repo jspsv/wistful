@@ -13,3 +13,5 @@ Wistful Theme for VS Code.
   <div style="width: 4rem; background-color: #ffa0f2"></div>
   <div style="width: 4rem; background-color: #8853d4"></div>
 </div>
+
+A robust, all-purpose theme that composes color variety with semantic meaning.
